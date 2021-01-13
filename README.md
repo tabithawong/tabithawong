@@ -7,7 +7,7 @@ I'm always looking for solutions to problems that I see around me. I'm intereste
 Some other fun facts about me are that I'm left-handed, a HUGE fan of Taylor Swift, and I love giraffes 🦒 
 I was born in Hong Kong 🇭🇰 and I'm fully fluent in Cantonese!
 
-I love to attend hackathons to meet new people and get inspiration for new projects ideas. 
+I love to attend hackathons to meet new people and get inspiration for new projects ideas.
 
 ```json
 {
@@ -20,7 +20,10 @@ I love to attend hackathons to meet new people and get inspiration for new proje
 }
 ```
 
-
+### I'd love to hear from you!
+[website](http://tabithawong.me)\
+[linkedin](https://www.linkedin.com/in/tabitha-wong/)\
+[email](mailto:tabi159w@gmail.com)
 
 <!--
 **tabithawong/tabithawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
