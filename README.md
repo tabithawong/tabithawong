@@ -11,12 +11,12 @@ I love to attend hackathons to meet new people and get inspiration for new proje
 
 ```json
 {
-  str name = "Tabitha Wong",
-  str program = "CS/BBA double degree",
-  str school1 =  "University of Waterloo",
-  str school2 = "Wilfrid Laurier University",
-  str term = "1B",
-  bool lookingforwork = true,
+  "name": "Tabitha Wong"
+  "program": "CS/BBA double degree",
+  "school1": "University of Waterloo",
+  "school2": "Wilfrid Laurier University",
+  "term": "1B",
+  "lookingforwork": "true",
 }
 ```
 
