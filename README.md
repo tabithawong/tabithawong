@@ -11,7 +11,7 @@ I love to attend hackathons to meet new people and get inspiration for new proje
 
 ```json
 {
-  "name": "Tabitha Wong"
+  "name": "Tabitha Wong",
   "program": "CS/BBA double degree",
   "school1": "University of Waterloo",
   "school2": "Wilfrid Laurier University",
