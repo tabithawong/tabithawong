@@ -21,9 +21,9 @@ I love to attend hackathons to meet new people and get inspiration for new proje
 ```
 
 ### I'd love to hear from you!
-[website](http://tabithawong.me)\
-[linkedin](https://www.linkedin.com/in/tabitha-wong/)\
-[email](mailto:tabi159w@gmail.com)
+[Website](http://tabithawong.me)\
+[LinkedIn](https://www.linkedin.com/in/tabitha-wong/)\
+[Email](mailto:tabi159w@gmail.com)
 
 <!--
 **tabithawong/tabithawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
