@@ -1,3 +1,5 @@
+![Hi, I'm Tabitha! 🦒 I'm an aspiring dev! 👩🏻‍💻 Learn more below!](https://github.com/tabithawong/tabithawong/raw/main/tabtyping.gif)
+
 ### Hi, I'm Tabitha (she/her)! 
 
 ### I'm a software developer who is passionate about learning ✍️ 
