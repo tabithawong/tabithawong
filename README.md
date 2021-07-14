@@ -1,5 +1,4 @@
 ![Hi, I'm Tabitha! 🦒 I'm an aspiring dev! 👩🏻‍💻 Learn more below!](https://github.com/tabithawong/tabithawong/raw/main/tabtyping.gif)
-(READ.ME typing GIF idea credits go to https://github.com/matyo91/matyo91)
 
 ### Hi, I'm Tabitha (she/her)! 
 
@@ -26,3 +25,5 @@ I love to attend hackathons to meet new people and get inspiration for new proje
 [Website](http://tabithawong.me)\
 [LinkedIn](https://www.linkedin.com/in/tabitha-wong/)\
 [Email](mailto:tabi159w@gmail.com)
+
+(READ.ME typing GIF idea credits go to https://github.com/matyo91/matyo91)
