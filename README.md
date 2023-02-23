@@ -4,7 +4,7 @@
 
 ### I'm a software developer who is passionate about learning ✍️ 
 
-I'm always looking for solutions to problems that I see around me. I'm interested in product management, backend development, and devops. I'm a double degree student at the University of Waterloo and Wilfrid Laurier University, studying Computer Science and Business Administration.
+I'm always looking for solutions to problems that I see around me. I'm interested in product management and technology consulting. I'm a double degree student at the University of Waterloo and Wilfrid Laurier University, studying Computer Science and Business Administration.
 
 Some other fun facts about me are that I have a 5+ year streak on Duolingo, I'm a HUGE fan of Taylor Swift, and I love giraffes 🦒 
 I was born in Hong Kong 🇭🇰 and I'm fully fluent in Cantonese!
