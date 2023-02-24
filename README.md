@@ -2,7 +2,7 @@
 
 ### Hi, I'm Tabitha (she/her)! 
 
-### I'm a software developer who is passionate about learning ✍️ 
+### I'm a CS and Business student passionate about learning ✍️
 
 I'm always looking for solutions to problems that I see around me. I'm interested in product management and technology consulting. I'm a double degree student at the University of Waterloo and Wilfrid Laurier University, studying Computer Science and Business Administration.
 
